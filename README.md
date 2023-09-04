@@ -4,6 +4,7 @@ The obstacle avoidance code could be used to demonstrate how functions work and 
 The pre-programmed instructions code could be used to create a robot which follows a specified path; however, the motors are somewhat finnicky and don't stop well. 
 
 <img width="500" alt="Schematic" src="https://github.com/Nrxszv0/Outreach_Bot-The_Kaons_7951/assets/58677365/7c6eaa89-4775-45d4-8065-274a11220968">
+<img width="454" alt="Robot Pinout" src="https://github.com/Nrxszv0/Outreach_Bot-The_Kaons_7951/assets/58677365/e610879d-c6ab-420a-957b-585a4855064b">
 
 
 https://github.com/Nrxszv0/Outreach_Bot-The_Kaons_7951/assets/58677365/dd9f1357-46d5-413d-87b2-fea0f61f2db6
