@@ -5,6 +5,10 @@ The pre-programmed instructions code could be used to create a robot which follo
 
 <img width="500" alt="Schematic" src="https://github.com/Nrxszv0/Outreach_Bot-The_Kaons_7951/assets/58677365/7c6eaa89-4775-45d4-8065-274a11220968">
 
+
+https://github.com/Nrxszv0/Outreach_Bot-The_Kaons_7951/assets/58677365/dd9f1357-46d5-413d-87b2-fea0f61f2db6
+
+
 Further improvements
 - Add a middle ultrasonic sensor
 - Create a custom pcb
